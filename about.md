@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-NOMOREABOUT!
+About Razorsite...
 
-poo
+Things and stuff :)
 
