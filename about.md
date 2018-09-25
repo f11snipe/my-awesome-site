@@ -13,5 +13,5 @@ Is this just fantasy?
 
 Is this a <pre> tag?
 
-No escape from the formatting
+No escape from formatting ...
 ```
