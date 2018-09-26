@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello From Houndstooth!
+title: Update From Houndstooth!
 date: '2018-09-24 13:08:00 -0600'
 categories:
   - category1
@@ -8,7 +8,7 @@ categories:
 
 ---
 <p>This is the WYSIWYG from Houndstooth!</p>
-<p></p>
+<p>UPDATED!</p>
 <p>YAYAYAY</p>
 <p></p>
 <ul>
